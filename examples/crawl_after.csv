@@ -1,0 +1,33 @@
+Address,Content Type,Status Code,Status,Indexability,Indexability Status,Title 1,Meta Description 1,H1-1,Meta Robots 1,Canonical Link Element 1,Word Count,Unique Inlinks,Redirect URL
+https://www.trailforge.shop/,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/
+https://www.trailforge.shop/tents,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/shop/tents
+https://www.trailforge.shop/tents/ultralight-2p,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/shop/tents/ultralight-2p
+https://www.trailforge.shop/tents/family-6p,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/shop/tents
+https://www.trailforge.shop/sleeping-bags,,302,Found,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/shop/sleeping-bags
+https://www.trailforge.shop/sleeping-bags/down-0c,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/shop/sleeping-bags/down-0c
+https://www.trailforge.shop/backpacks,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,http://trailforge.com/shop/backpacks
+https://www.trailforge.shop/backpacks/daypack-25l,,404,Not Found,Non-Indexable,Client Error,,,,,,,,
+https://www.trailforge.shop/blog,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/journal
+https://www.trailforge.shop/blog/how-to-pick-a-tent,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/journal/how-to-pick-a-tent
+https://www.trailforge.shop/blog/layering-guide,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/journal/layering-guide
+https://www.trailforge.shop/about,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/about-us
+https://www.trailforge.shop/contact,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/contact
+https://www.trailforge.shop/shipping,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/help/shipping
+https://www.trailforge.shop/returns,,503,Service Unavailable,Non-Indexable,Server Error,,,,,,,,
+http://trailforge.com/shop/backpacks,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://trailforge.com/shop/backpacks
+https://trailforge.com/,text/html; charset=utf-8,200,OK,Indexable,,Outdoor Gear for Every Trail | TrailForge,"Tents, sleeping bags and backpacks tested on real trails.",Gear for every trail,"index, follow",https://trailforge.com/,620,150,
+https://trailforge.com/shop/tents,text/html; charset=utf-8,200,OK,Indexable,,Tents: Ultralight to Family Size | TrailForge,Backpacking and family tents with free returns.,Tents,"index, follow",https://trailforge.com/shop/tents,540,88,
+https://trailforge.com/shop/tents/ultralight-2p,text/html; charset=utf-8,200,OK,Indexable,,"Ultralight 2-Person Tent, 1.1 kg | TrailForge",A 1.1 kg two-person tent for long trips.,Ultralight 2P tent,"index, follow",https://www.trailforge.shop/tents/ultralight-2p,980,18,
+https://trailforge.com/shop/tents/family-6p,text/html; charset=utf-8,200,OK,Indexable,,Family 6-Person Tent | TrailForge,Stand-up height and two rooms for family camping.,Family 6P tent,"index, follow",https://trailforge.com/shop/tents/family-6p,910,14,
+https://trailforge.com/shop/sleeping-bags,text/html; charset=utf-8,200,OK,Indexable,,Sleeping Bags for 3 Seasons | TrailForge,Down and synthetic bags rated to real temperatures.,Sleeping bags,"index, follow",https://trailforge.com/shop/sleeping-bags,510,76,
+https://trailforge.com/shop/sleeping-bags/down-0c,text/html; charset=utf-8,200,OK,Non-Indexable,noindex,Down Sleeping Bag 0 C | TrailForge,"Comfort rated to 0 C, packs to the size of a loaf.",Down sleeping bag 0 C,"noindex, follow",https://trailforge.com/shop/sleeping-bags/down-0c,870,12,
+https://trailforge.com/shop/backpacks,text/html; charset=utf-8,200,OK,Indexable,,Hiking Backpacks 20-70 L | TrailForge,Daypacks and trekking packs fitted to your back length.,Backpacks,"index, follow",https://trailforge.com/shop/backpacks,560,81,
+https://trailforge.com/shop/backpacks/daypack-25l,text/html; charset=utf-8,200,OK,Indexable,,Daypack 25 L | TrailForge,A 25 litre daypack with a rain cover built in.,Daypack 25 L,"index, follow",https://trailforge.com/shop/backpacks/daypack-25l,720,16,
+https://trailforge.com/journal,text/html; charset=utf-8,200,OK,Indexable,,Trail Journal | TrailForge,Guides and stories from the trail.,Trail journal,"index, follow",https://trailforge.com/journal,300,95,
+https://trailforge.com/journal/how-to-pick-a-tent,text/html; charset=utf-8,200,OK,Indexable,,Choosing a Tent | TrailForge Journal,"Weight, size, seasons and the seven checks before you buy a tent.",How to pick a tent,"index, follow",https://trailforge.com/journal/how-to-pick-a-tent,900,22,
+https://trailforge.com/journal/layering-guide,,404,Not Found,Non-Indexable,Client Error,,,,,,,,
+https://trailforge.com/about-us,text/html; charset=utf-8,200,OK,Indexable,,About TrailForge | TrailForge,A small team of hikers testing gear since 2014.,,"index, follow",https://trailforge.com/about-us,450,3,
+https://trailforge.com/contact,text/html; charset=utf-8,200,OK,Indexable,,Contact Us | TrailForge,Write to our support team. We answer within one working day.,Contact us,"index, follow",https://trailforge.com/contact,180,118,
+https://trailforge.com/help/shipping,,301,Moved Permanently,Non-Indexable,Redirected,,,,,,,,https://www.trailforge.shop/shipping
+https://trailforge.com/shop,text/html; charset=utf-8,200,OK,Indexable,,Shop All Gear | TrailForge,"Every tent, bag and pack in one place.",Shop,"index, follow",https://trailforge.com/shop,400,130,
+https://trailforge.com/journal/trail-food-ideas,text/html; charset=utf-8,200,OK,Indexable,,Trail Food Ideas for Multi-Day Hikes | TrailForge Journal,"Light, cheap meals that keep you going.",Trail food ideas,"index, follow",https://trailforge.com/journal/trail-food-ideas,1300,11,
